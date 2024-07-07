@@ -1,0 +1,52 @@
+{
+  "solo": [
+    {
+      "id": "82c0",
+      "name": "Cha Hae In",
+      "age": "21",
+      "rank": "S",
+      "image": "https://i.pinimg.com/564x/95/21/57/9521574c4c3b251f5e958e225bce5428.jpg",
+      "descr": "Cha Hae-In (차해인) is a Korean S-Rank Hunter and the Vice-Guild Master of the Hunters Guild. She is also the wife of Sung Jinwoo and the mother of their son Sung Suho.",
+      "back": "https://i.pinimg.com/564x/48/a9/f7/48a9f7906d61d42ff7dec45aa852c089.jpg",
+      "characters": "https://i.pinimg.com/564x/79/1c/e2/791ce240cdfc644b2dd26ab482219dd7.jpg",
+      "skills": "Master Swordsmanship: Exceptional skill with a sword, allowing precise and powerful attacks. Aura Sensitivity: Unique ability to sense and perceive magical auras, giving her an edge in detecting threats. Physical Prowess: Superhuman strength, speed, and endurance, making her formidable in combat. Combat Strategy: Tactical intelligence and quick adaptability in battle situations. Sword Aura: Ability to channel magical energy into her sword for enhanced cutting power.",
+      "status": " Cha Hae-In is a powerful S-Rank hunter and a key character in \"Solo Leveling.\" Known for her exceptional swordsmanship and unique ability to sense magical auras, she becomes a crucial member of Sung Jinwoo’s guild and his romantic partner. Originally a respected hunter in the Hunter’s Association, she joins Jinwoo’s team, contributing significantly in battles and strategic missions. Her relationship with Jinwoo evolves from respect to deep affection, and she serves as both a formidable ally and emotional support in his quest to combat dungeon threats.",
+      "weapons": "Standard Sword: A finely crafted sword suited for precise and powerful combat. Aura-Infused Sword: She channels her magical energy into the sword, enhancing its cutting power and allowing for devastating attacks. S-Rank Weapons: Specialized, high-level swords designed to amplify her strength and abilities.",
+      "imgSkill": "https://i.pinimg.com/564x/7f/2d/3d/7f2d3dbf1db34e8ccbd330522cb4df9a.jpg",
+      "imgStatus": "https://i.pinimg.com/564x/e3/a4/b4/e3a4b43fdaf84a413d6842f1af85e410.jpg",
+      "imgWeapons": "https://i.pinimg.com/564x/14/67/39/146739f405ac04402a9c48b1b5ebe673.jpg"
+    },
+    {
+      "id": "89fb",
+      "name": "Sung Jin Woo",
+      "age": "21",
+      "rank": "Lord",
+      "image": "https://i.pinimg.com/736x/62/5e/9e/625e9e39df4955bbdd4433262cfc57e3.jpg",
+      "descr": "Sung Jinwoo (성진우, Seong Jin-Wu) is the main protagonist of Solo Leveling. He is the strongest hunter in the world and the second Shadow Monarch, having inherited the position from his predecessor Ashborn.",
+      "back": "https://i.pinimg.com/564x/bf/16/a6/bf16a658662656209bcaacaa76ca771a.jpg",
+      "characters": "https://i.pinimg.com/564x/05/0c/85/050c8501497a11e49d15e4790c294010.jpg",
+      "skills": "Infinite Leveling: Ability to continually grow stronger through the System. Shadow Extraction: Can command a legion of shadow soldiers. Combat Proficiency: Master of hand-to-hand combat and weapons. Magical Abilities: Includes telekinesis, spatial manipulation, and powerful spells. Stealth and Agility: Skills in stealth and superhuman speed. Regeneration: Rapid healing abilities, enhancing his durability in battle.",
+      "status": "Sung Jinwoo, the protagonist of \"Solo Leveling,\" evolves from the weakest E-Rank hunter to the immensely powerful Shadow Monarch with infinite leveling potential. He leads the Ahjin Guild and commands a vast army of shadow soldiers. Jinwoo excels in both close combat and magic, using his unique abilities to protect humanity from monstrous threats. He shares a deep bond with Cha Hae-In, his romantic partner, and remains devoted to his family's safety while uncovering the secrets of his extraordinary powers.",
+      "weapons": "Sung Jinwoo in \"Solo Leveling\" primarily uses daggers and swords for close combat, augmented by his powerful magical abilities and the army of shadow soldiers he commands. His arsenal includes enchanted items and artifacts from dungeons, enhancing his combat prowess and strategic capabilities.",
+      "imgSkill": "https://i.pinimg.com/564x/36/15/dd/3615ddc7dbc0e13198df46ade958fb58.jpg",
+      "imgStatus": "https://i.pinimg.com/564x/33/2f/37/332f373a55ec75a9aec0d11ef30fe210.jpg",
+      "imgWeapons": "https://i.pinimg.com/564x/bf/32/94/bf32948cc52d2e9d9ae1260c44a65c37.jpg"
+    },
+    {
+      "id": "4747",
+      "name": "Antares",
+      "age": "1000",
+      "rank": "Lord",
+      "image": "https://i.pinimg.com/564x/b2/41/5a/b2415a95edec5cdaca698212f7a1ae45.jpg",
+      "descr": "Antares (안타레스) was the King of Dragons and the Monarch of Destruction. He was also both the strongest and the oldest of the nine Monarchs, as well as the final antagonist of Solo Leveling.",
+      "back": "https://i.pinimg.com/564x/20/54/6f/20546f3b8d49a8fb9a12aa2e6565ffab.jpg",
+      "characters": "https://i.pinimg.com/564x/ad/33/1e/ad331e9a769c8e1b9de4174757c4c377.jpg",
+      "skills": "Immense Strength: Overwhelming physical power to crush foes. Fire Manipulation: Can unleash devastating fire attacks and is immune to fire. Dragon Command: Leads a vast, powerful army of dragons. Regeneration: Rapidly heals from injuries. Flight: Allows for swift movement and aerial combat. Destruction Aura: Emits a powerful aura that destabilizes enemies and the environment.",
+      "status": " Antares, the Dragon Emperor and Monarch of Destruction, is the most powerful antagonist in \"Solo Leveling.\" He commands a fearsome army of dragons and wields immense strength and fire-based attacks. As the leader of the Monarchs, his goal is to annihilate humanity and the world. Antares serves as Sung Jinwoo’s ultimate adversary, culminating in a decisive final battle between them.",
+      "weapons": "Draconic Body: Massive strength and durability for physical combat. Flame Breath: Devastating fire attacks that incinerate enemies. Claws and Tail: Sharp claws and powerful tail for slashing and smashing foes. Destruction Aura: Emits an aura that weakens and damages anything nearby.",
+      "imgSkill": "https://i.pinimg.com/564x/1a/1d/72/1a1d72a94d91011fd3fccbe86a445ad3.jpg",
+      "imgStatus": "https://i.pinimg.com/564x/55/0f/44/550f4428145ed70591dc5265666ef08b.jpg",
+      "imgWeapons": "https://i.pinimg.com/564x/3c/6f/e7/3c6fe73b3ffc6f9c0c93fd1782e08eb8.jpg"
+    }
+  ]
+}
