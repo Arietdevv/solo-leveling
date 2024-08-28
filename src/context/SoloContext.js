@@ -18,7 +18,6 @@ const SoloContext = ({ children }) => {
     let { data } = await axios.get(`${SOLO}/${id}`);
     setOneSolo(data);
   }
-
   async function read() {
     let res = await axios(`${SOLO}/${window.location.search}`);
     setSolo(res.data);

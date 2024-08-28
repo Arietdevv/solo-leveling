@@ -48,16 +48,29 @@ a {
 .head_regis {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
   width: 280px;
 }
 
 .head_regis button {
-  padding: 10px 40px;
-  border-radius: 20px;
+  background-color: #6a0dad;
+  color: white;
   border: none;
-  background-color: blueviolet;
-  color: wheat;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.head_regis button:hover {
+  background-color: #7d3c98;
+  transform: scale(1.05);
+}
+
+.head_regis button.active {
+  background-color: #8e44ad;
+  font-weight: bold;
 }
 
 .btn {
@@ -358,4 +371,27 @@ a {
 .search input {
   padding: 10px 15px;
   border-radius: 10px;
+}
+
+.in {
+  display: flex;
+  justify-content: center;
+}
+
+.in input {
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.pagination button {
+  padding: 5px;
+  border-radius: 5px;
 }
